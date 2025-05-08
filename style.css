@@ -161,13 +161,13 @@ header {
 input[type="text"] {
   margin-top: 15px;
   padding: 10px;
-  width: 150px;
+  width: 120px;
   font-size: 16px;
 }
 
 button {
-  padding: 10px 20px;
-  margin-left: 9px;
+  padding: 10px 10px;
+  margin-left: px;
   background-color: #8d21ad;
   color: white;
   border: none;
@@ -195,7 +195,7 @@ button:hover {
 }
 .navbar li a {
   color: white;
-  padding: 14px 20px;
+  padding: 14px 40px;
   text-decoration: none;
   display: inline-block;
 }
@@ -217,7 +217,7 @@ button:hover {
   background: #b87dd3;
   border-radius: 12px;
   padding: 10px;
-  width: 200px;
+  width: 250px;
   text-align: center;
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
